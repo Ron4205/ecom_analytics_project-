@@ -1,0 +1,6 @@
+OrderID,CustomerID,Product,Price,Quantity
+1001,1,Shoes,50,1
+1002,2,Shirt,20,2
+1003,3,Shoes,50,1
+1004,1,Watch,100,1
+1005,5,Shirt,20,3
